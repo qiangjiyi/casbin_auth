@@ -1,0 +1,226 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "oyXJxS8qqy5TCkqvndCD1c7Lkg4=",
+			"path": "github.com/Knetic/govaluate",
+			"revision": "9aa49832a739dcd78a5542ff189fb82c3e423116",
+			"revisionTime": "2017-10-22T00:36:10Z"
+		},
+		{
+			"checksumSHA1": "MkP+YUWj9IWJAIx4xMuqjsRaut4=",
+			"path": "github.com/astaxie/beego",
+			"revision": "f64e6b72e93627fa65f5f7a1b0db8ad2108a5449",
+			"revisionTime": "2018-10-28T12:01:23Z"
+		},
+		{
+			"checksumSHA1": "Hm8YiOYnhPYS2kH1IqhFMeiVDbc=",
+			"path": "github.com/astaxie/beego/cache",
+			"revision": "f64e6b72e93627fa65f5f7a1b0db8ad2108a5449",
+			"revisionTime": "2018-10-28T12:01:23Z"
+		},
+		{
+			"checksumSHA1": "hK/VJgNEUqBYuv9cOvBT3k2tGW8=",
+			"path": "github.com/astaxie/beego/cache/redis",
+			"revision": "f64e6b72e93627fa65f5f7a1b0db8ad2108a5449",
+			"revisionTime": "2018-10-28T12:01:23Z"
+		},
+		{
+			"checksumSHA1": "JvDySyr+rfWQ9sp+ciwxxWywea0=",
+			"path": "github.com/astaxie/beego/config",
+			"revision": "f64e6b72e93627fa65f5f7a1b0db8ad2108a5449",
+			"revisionTime": "2018-10-28T12:01:23Z"
+		},
+		{
+			"checksumSHA1": "RxjyYqHZGr4NrlXRKQejteNlxk0=",
+			"path": "github.com/astaxie/beego/context",
+			"revision": "f64e6b72e93627fa65f5f7a1b0db8ad2108a5449",
+			"revisionTime": "2018-10-28T12:01:23Z"
+		},
+		{
+			"checksumSHA1": "iHY0XMPlj5EfCxMN4NEmvBgdhDM=",
+			"path": "github.com/astaxie/beego/context/param",
+			"revision": "f64e6b72e93627fa65f5f7a1b0db8ad2108a5449",
+			"revisionTime": "2018-10-28T12:01:23Z"
+		},
+		{
+			"checksumSHA1": "N5kHk4qbc10N2Lp9ltA2G76qNxs=",
+			"path": "github.com/astaxie/beego/grace",
+			"revision": "f64e6b72e93627fa65f5f7a1b0db8ad2108a5449",
+			"revisionTime": "2018-10-28T12:01:23Z"
+		},
+		{
+			"checksumSHA1": "OksAzF6VvpfTlte99lpVNV+iSnY=",
+			"path": "github.com/astaxie/beego/logs",
+			"revision": "f64e6b72e93627fa65f5f7a1b0db8ad2108a5449",
+			"revisionTime": "2018-10-28T12:01:23Z"
+		},
+		{
+			"checksumSHA1": "uLBFeaRp2ykSSTrus92MWMHkv+E=",
+			"path": "github.com/astaxie/beego/orm",
+			"revision": "f64e6b72e93627fa65f5f7a1b0db8ad2108a5449",
+			"revisionTime": "2018-10-28T12:01:23Z"
+		},
+		{
+			"checksumSHA1": "dXvvTC4ePe3mebX2nOoJcLKJwnc=",
+			"path": "github.com/astaxie/beego/plugins/cors",
+			"revision": "f64e6b72e93627fa65f5f7a1b0db8ad2108a5449",
+			"revisionTime": "2018-10-28T12:01:23Z"
+		},
+		{
+			"checksumSHA1": "EDaMYv6yHO6Xu9J8loeGIUOvGoE=",
+			"path": "github.com/astaxie/beego/session",
+			"revision": "f64e6b72e93627fa65f5f7a1b0db8ad2108a5449",
+			"revisionTime": "2018-10-28T12:01:23Z"
+		},
+		{
+			"checksumSHA1": "TacyIISKffWm9a5/sz+SF6LFlyc=",
+			"path": "github.com/astaxie/beego/session/redis",
+			"revision": "f64e6b72e93627fa65f5f7a1b0db8ad2108a5449",
+			"revisionTime": "2018-10-28T12:01:23Z"
+		},
+		{
+			"checksumSHA1": "+PlOZO0+eBgxmhWTz5qn6CH5UHk=",
+			"path": "github.com/astaxie/beego/toolbox",
+			"revision": "f64e6b72e93627fa65f5f7a1b0db8ad2108a5449",
+			"revisionTime": "2018-10-28T12:01:23Z"
+		},
+		{
+			"checksumSHA1": "W7HBzu7HlF18vCfNPgax7xvHXB0=",
+			"path": "github.com/astaxie/beego/utils",
+			"revision": "f64e6b72e93627fa65f5f7a1b0db8ad2108a5449",
+			"revisionTime": "2018-10-28T12:01:23Z"
+		},
+		{
+			"checksumSHA1": "+mWpTLP462ZpvSOfcRcnPdBlaxM=",
+			"path": "github.com/astaxie/beego/validation",
+			"revision": "f64e6b72e93627fa65f5f7a1b0db8ad2108a5449",
+			"revisionTime": "2018-10-28T12:01:23Z"
+		},
+		{
+			"checksumSHA1": "qbIWOslAAtqn5Usj5BaaWPGS+Xs=",
+			"path": "github.com/casbin/beego-orm-adapter",
+			"revision": "ba104911ae5b3d6f4569781e70ea586fd1b174e9",
+			"revisionTime": "2018-04-21T16:06:15Z"
+		},
+		{
+			"checksumSHA1": "FyOaMnIIAwXL/cHGBsn0wpS8DDs=",
+			"path": "github.com/casbin/casbin",
+			"revision": "602737c848b6412eb135bde68d48fb837cfcb3f8",
+			"revisionTime": "2018-12-14T15:57:12Z"
+		},
+		{
+			"checksumSHA1": "HXFHFC5laWQLV7ukDJMOu+fnV98=",
+			"path": "github.com/casbin/casbin/config",
+			"revision": "602737c848b6412eb135bde68d48fb837cfcb3f8",
+			"revisionTime": "2018-12-14T15:57:12Z"
+		},
+		{
+			"checksumSHA1": "ISPy+rbKb5OFo0u3gzIH5ZAfHJ0=",
+			"path": "github.com/casbin/casbin/effect",
+			"revision": "602737c848b6412eb135bde68d48fb837cfcb3f8",
+			"revisionTime": "2018-12-14T15:57:12Z"
+		},
+		{
+			"checksumSHA1": "5IZ0pDKgAJ4fmgI4pP8H6AEYHvs=",
+			"path": "github.com/casbin/casbin/log",
+			"revision": "602737c848b6412eb135bde68d48fb837cfcb3f8",
+			"revisionTime": "2018-12-14T15:57:12Z"
+		},
+		{
+			"checksumSHA1": "HlI7cjIFxeL/cwyHCKgdeS3ShBc=",
+			"path": "github.com/casbin/casbin/model",
+			"revision": "602737c848b6412eb135bde68d48fb837cfcb3f8",
+			"revisionTime": "2018-12-14T15:57:12Z"
+		},
+		{
+			"checksumSHA1": "Vh0QOexgwx/ecGQUB6TzHEaaZDM=",
+			"path": "github.com/casbin/casbin/persist",
+			"revision": "602737c848b6412eb135bde68d48fb837cfcb3f8",
+			"revisionTime": "2018-12-14T15:57:12Z"
+		},
+		{
+			"checksumSHA1": "Gm4rEQcPixI0XJC+IcCZJDt4+p8=",
+			"path": "github.com/casbin/casbin/persist/file-adapter",
+			"revision": "602737c848b6412eb135bde68d48fb837cfcb3f8",
+			"revisionTime": "2018-12-14T15:57:12Z"
+		},
+		{
+			"checksumSHA1": "ZruzUDr8GdmwPfkP9s9UNdr4Jrw=",
+			"path": "github.com/casbin/casbin/rbac",
+			"revision": "602737c848b6412eb135bde68d48fb837cfcb3f8",
+			"revisionTime": "2018-12-14T15:57:12Z"
+		},
+		{
+			"checksumSHA1": "nKLM6aEg1ldS5za/hW/rPEPRyZ8=",
+			"path": "github.com/casbin/casbin/rbac/default-role-manager",
+			"revision": "602737c848b6412eb135bde68d48fb837cfcb3f8",
+			"revisionTime": "2018-12-14T15:57:12Z"
+		},
+		{
+			"checksumSHA1": "odG/LhWhDK1q6W2o2OjmO1Bxn3A=",
+			"path": "github.com/casbin/casbin/util",
+			"revision": "602737c848b6412eb135bde68d48fb837cfcb3f8",
+			"revisionTime": "2018-12-14T15:57:12Z"
+		},
+		{
+			"checksumSHA1": "blOHP3HPYU+IeV6yWCalQuuM+zE=",
+			"path": "github.com/dgrijalva/jwt-go",
+			"revision": "3af4c746e1c248ee8491a3e0c6f7a9cd831e95f8",
+			"revisionTime": "2018-09-21T17:23:15Z"
+		},
+		{
+			"checksumSHA1": "8M/GlM986QSn9urcuFsQMvUFgSI=",
+			"path": "github.com/go-sql-driver/mysql",
+			"revision": "fd197cdcfae0c686792ef5399f223f5b66a30b6b",
+			"revisionTime": "2018-10-31T14:07:16Z"
+		},
+		{
+			"checksumSHA1": "73htiRJAyEYC5HJaFtkhmosWlbE=",
+			"path": "github.com/gomodule/redigo/redis",
+			"revision": "02dc2736dbc3a4a56907b0d5a9fead2f71b499db",
+			"revisionTime": "2018-12-13T21:05:01Z"
+		},
+		{
+			"checksumSHA1": "xxLSo5tKtXc7jGrR70yoEfza8Cw=",
+			"path": "github.com/lib/pq",
+			"revision": "9eb73efc1fcc404148b56765b0d3f61d9a5ef8ee",
+			"revisionTime": "2018-10-16T16:26:27Z"
+		},
+		{
+			"checksumSHA1": "ATnwV0POluBNQEMjPdylodz0oK0=",
+			"path": "github.com/lib/pq/oid",
+			"revision": "9eb73efc1fcc404148b56765b0d3f61d9a5ef8ee",
+			"revisionTime": "2018-10-16T16:26:27Z"
+		},
+		{
+			"checksumSHA1": "Tutue3nEgM/87jitUcYv6ODwyNE=",
+			"path": "github.com/satori/go.uuid",
+			"revision": "b2ce2384e17bbe0c6d34077efa39dbab3e09123b",
+			"revisionTime": "2018-10-28T12:50:25Z"
+		},
+		{
+			"checksumSHA1": "J6lNRPdrYhKft6S8x33K9brxyhE=",
+			"origin": "github.com/astaxie/beego/vendor/golang.org/x/crypto/acme",
+			"path": "golang.org/x/crypto/acme",
+			"revision": "f64e6b72e93627fa65f5f7a1b0db8ad2108a5449",
+			"revisionTime": "2018-10-28T12:01:23Z"
+		},
+		{
+			"checksumSHA1": "EFjIi/zCZ1Cte0MQtyxGCTgSzk8=",
+			"origin": "github.com/astaxie/beego/vendor/golang.org/x/crypto/acme/autocert",
+			"path": "golang.org/x/crypto/acme/autocert",
+			"revision": "f64e6b72e93627fa65f5f7a1b0db8ad2108a5449",
+			"revisionTime": "2018-10-28T12:01:23Z"
+		},
+		{
+			"checksumSHA1": "ZSWoOPUNRr5+3dhkLK3C4cZAQPk=",
+			"origin": "github.com/astaxie/beego/vendor/gopkg.in/yaml.v2",
+			"path": "gopkg.in/yaml.v2",
+			"revision": "f64e6b72e93627fa65f5f7a1b0db8ad2108a5449",
+			"revisionTime": "2018-10-28T12:01:23Z"
+		}
+	],
+	"rootPath": "github.com/qiangjiyi/casbin_auth"
+}
